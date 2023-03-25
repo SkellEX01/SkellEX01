@@ -6,8 +6,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on as Software Engineer
 - 🌱 I’m currently learning TypeScript
-- 💬 About me: a Stoic, play violin, listen to music, gym, edit movie, study
-- ⚡  MBTI: (A)NTJ 
+- 💬 About me: A Stoic
+-    My hobbies: Play violin, listen to music, gym, edit movie, study
+-    MBTI: (A)NTJ 
 
 Song: Yutaka Yamada - JFTC
 
