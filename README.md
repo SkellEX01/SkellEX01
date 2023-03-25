@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on as Software Engineer
 - 🌱 I’m currently learning TypeScript
-- 💬 About me: A Stoic
+- 💬 About me: A Stoic sees the world clearly!
 - ✨ My hobbies: Play violin, listen to music, gym, edit movie, study 
 - ⚡  MBTI: (A)NTJ 
 
