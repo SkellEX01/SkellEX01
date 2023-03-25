@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning TypeScript
 - 💬 About me: A Stoic
 -    My hobbies: Play violin, listen to music, gym, edit movie, study
--    MBTI: (A)NTJ 
+- ⚡  MBTI: (A)NTJ 
 
 Song: Yutaka Yamada - JFTC
 
