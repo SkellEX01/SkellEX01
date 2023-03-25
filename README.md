@@ -10,3 +10,6 @@ Here are some ideas to get you started:
 - ⚡  MBTI: (A)NTJ 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3166oi6wyeiueexiozrc4abv6oua&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+https://user-images.githubusercontent.com/98630434/227729178-a3efb698-549b-4624-bdf4-ac202317ed80.mp4
+
