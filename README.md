@@ -6,6 +6,6 @@
 - ✨ My hobbies: Play violin, listen to music, gym, edit movie, study 
 - ⚡  MBTI: (A)NTJ 
 
-## Song: Yutaka Yamada -「JFTC」🎧
+### Song: Yutaka Yamada -「JFTC」🎧
 
 https://user-images.githubusercontent.com/98630434/227729178-a3efb698-549b-4624-bdf4-ac202317ed80.mp4
