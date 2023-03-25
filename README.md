@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**SkellEX01/SkellEX01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Wishing you a new day full of energy for a productive day 👋
 
 - 🔭 I’m currently working on as Software Engineer
 - 🌱 I’m currently learning TypeScript
