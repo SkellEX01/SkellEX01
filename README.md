@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning TypeScript
 - 💬 About me: A Stoic sees the world clearly!
 - ✨ My hobbies: Play violin, listen to music, gym, edit movie, study 
-- ⚡  MBTI: (A)NTJ-A 
+- ⚡  MBTI: INTJ-A 
 
 ### Song: Yutaka Yamada -「JFTC」🎧
 
