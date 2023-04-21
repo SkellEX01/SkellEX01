@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on as Software Engineer
 - 🌱 I’m currently learning TypeScript
 - 💬 About me: A Stoic sees the world clearly!
-- ✨ My hobbies: Violin, music, workout, study 
+- ✨ My hobbies: Violin, symphony, workout, study 
 - ⚡  MBTI: INTJ-A 
 
 ### My Favorite Song: Two Steps From Hell -「Away With Your Fairies」🎧
